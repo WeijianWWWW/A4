@@ -190,7 +190,8 @@ app.layout = html.Div([
     })]  , style={
     "height": "100vh",  
     "width": "100vw",
-    "margin": "0"
+    "margin": "0",
+    "overflow": "hidden"
 })
 
 

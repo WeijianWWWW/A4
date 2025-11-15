@@ -1,0 +1,761 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "935",
+        "Building": "Civic Offices",
+        "Current Rating": "E1",
+        "Total m�": "40862.0",
+        "kgCO2 indicator": "100.91",
+        "Heating kWh/m�/yr": "83.13",
+        "Electricity kWh/m�/yr": "201.44",
+        "Typical Building kWh/m�/yr": "284.38",
+        "Next Rating Indicator": "100.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801080581",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "17",
+        "Building": "Tara Street Fire Station",
+        "Current Rating": "E1",
+        "Total m�": "5571.0",
+        "kgCO2 indicator": "103.99",
+        "Heating kWh/m�/yr": "216.44",
+        "Electricity kWh/m�/yr": "290.15",
+        "Typical Building kWh/m�/yr": "494.7",
+        "Next Rating Indicator": "100.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801077629",
+        "Previous Rating": "D2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1198",
+        "Building": "Ballymun Leisure Centre",
+        "Current Rating": "C2",
+        "Total m�": "4508.0",
+        "kgCO2 indicator": "58.55",
+        "Heating kWh/m�/yr": "664.87",
+        "Electricity kWh/m�/yr": "175.22",
+        "Typical Building kWh/m�/yr": "1420.81",
+        "Next Rating Indicator": "58.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801077801",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1200",
+        "Building": "Ballyfermot Leisure Centre",
+        "Current Rating": "C1",
+        "Total m�": "4429.0",
+        "kgCO2 indicator": "50.98",
+        "Heating kWh/m�/yr": "495.31",
+        "Electricity kWh/m�/yr": "105.45",
+        "Typical Building kWh/m�/yr": "1168.81",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078288",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "16",
+        "Building": "O'Brien Institute",
+        "Current Rating": "F",
+        "Total m�": "3666.0",
+        "kgCO2 indicator": "126.24",
+        "Heating kWh/m�/yr": "276.03",
+        "Electricity kWh/m�/yr": "263.7",
+        "Typical Building kWh/m�/yr": "429.73",
+        "Next Rating Indicator": "125.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801077637",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "736",
+        "Building": "Pearse Street Library",
+        "Current Rating": "C1",
+        "Total m�": "3535.0",
+        "kgCO2 indicator": "53.11",
+        "Heating kWh/m�/yr": "92.68",
+        "Electricity kWh/m�/yr": "149.4",
+        "Typical Building kWh/m�/yr": "460.61",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801077793",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1197",
+        "Building": "Finglas Leisure Centre",
+        "Current Rating": "D1",
+        "Total m�": "2690.0",
+        "kgCO2 indicator": "77.02",
+        "Heating kWh/m�/yr": "847.58",
+        "Electricity kWh/m�/yr": "297.73",
+        "Typical Building kWh/m�/yr": "1482.83",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801077819",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1406",
+        "Building": "Poppintree Community Sports Centre",
+        "Current Rating": "C1",
+        "Total m�": "2513.0",
+        "kgCO2 indicator": "57.32",
+        "Heating kWh/m�/yr": "151.9",
+        "Electricity kWh/m�/yr": "105.27",
+        "Typical Building kWh/m�/yr": "450.45",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078759",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1195",
+        "Building": "Cabra Parkside Sports Centre",
+        "Current Rating": "B2",
+        "Total m�": "2256.0",
+        "kgCO2 indicator": "34.14",
+        "Heating kWh/m�/yr": "72.38",
+        "Electricity kWh/m�/yr": "116.62",
+        "Typical Building kWh/m�/yr": "563.07",
+        "Next Rating Indicator": "33.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801077843",
+        "Previous Rating": "B2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "850",
+        "Building": "City Hall",
+        "Current Rating": "D1",
+        "Total m�": "2051.0",
+        "kgCO2 indicator": "77.0",
+        "Heating kWh/m�/yr": "149.29",
+        "Electricity kWh/m�/yr": "140.97",
+        "Typical Building kWh/m�/yr": "377.21",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078304",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "735",
+        "Building": "Central Library",
+        "Current Rating": "D2",
+        "Total m�": "2013.0",
+        "kgCO2 indicator": "96.29",
+        "Heating kWh/m�/yr": "177.34",
+        "Electricity kWh/m�/yr": "259.07",
+        "Typical Building kWh/m�/yr": "457.18",
+        "Next Rating Indicator": "87.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801077850",
+        "Previous Rating": "D2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1097",
+        "Building": "St Catherine's Sports Centre",
+        "Current Rating": "D2",
+        "Total m�": "1925.0",
+        "kgCO2 indicator": "87.74",
+        "Heating kWh/m�/yr": "367.6",
+        "Electricity kWh/m�/yr": "85.31",
+        "Typical Building kWh/m�/yr": "509.94",
+        "Next Rating Indicator": "87.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801077918",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "740",
+        "Building": "Cabra Library",
+        "Current Rating": "C1",
+        "Total m�": "1860.0",
+        "kgCO2 indicator": "58.25",
+        "Heating kWh/m�/yr": "119.19",
+        "Electricity kWh/m�/yr": "132.94",
+        "Typical Building kWh/m�/yr": "432.41",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078007",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "656",
+        "Building": "Inchicore Sports Centre",
+        "Current Rating": "A3",
+        "Total m�": "1669.0",
+        "kgCO2 indicator": "24.59",
+        "Heating kWh/m�/yr": "97.58",
+        "Electricity kWh/m�/yr": "60.09",
+        "Typical Building kWh/m�/yr": "641.6",
+        "Next Rating Indicator": "17.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078015",
+        "Previous Rating": "A3"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1495",
+        "Building": "Clogher Road Community and Sports Centre",
+        "Current Rating": "C3",
+        "Total m�": "1497.0",
+        "kgCO2 indicator": "68.67",
+        "Heating kWh/m�/yr": "139.53",
+        "Electricity kWh/m�/yr": "78.11",
+        "Typical Building kWh/m�/yr": "316.62",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078049",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1205",
+        "Building": "Ballybough Community and Sports Centre",
+        "Current Rating": "C2",
+        "Total m�": "1495.0",
+        "kgCO2 indicator": "61.97",
+        "Heating kWh/m�/yr": "154.62",
+        "Electricity kWh/m�/yr": "158.46",
+        "Typical Building kWh/m�/yr": "509.54",
+        "Next Rating Indicator": "58.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078031",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1196",
+        "Building": "Irishtown Sports and Fitness",
+        "Current Rating": "B3",
+        "Total m�": "1482.0",
+        "kgCO2 indicator": "44.6",
+        "Heating kWh/m�/yr": "166.6",
+        "Electricity kWh/m�/yr": "106.98",
+        "Typical Building kWh/m�/yr": "613.14",
+        "Next Rating Indicator": "42.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078296",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1170",
+        "Building": "Markievicz Leisure Centre",
+        "Current Rating": "E1",
+        "Total m�": "1421.0",
+        "kgCO2 indicator": "111.46",
+        "Heating kWh/m�/yr": "799.65",
+        "Electricity kWh/m�/yr": "484.43",
+        "Typical Building kWh/m�/yr": "1157.49",
+        "Next Rating Indicator": "100.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078056",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "15",
+        "Building": "Phibsboro Fire Station",
+        "Current Rating": "E1",
+        "Total m�": "1354.0",
+        "kgCO2 indicator": "104.12",
+        "Heating kWh/m�/yr": "326.17",
+        "Electricity kWh/m�/yr": "267.57",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "100.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078064",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "13",
+        "Building": "North Strand Fire Station",
+        "Current Rating": "D1",
+        "Total m�": "1100.0",
+        "kgCO2 indicator": "86.91",
+        "Heating kWh/m�/yr": "239.32",
+        "Electricity kWh/m�/yr": "254.25",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "�801078072",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1175",
+        "Building": "Aughrim Street Sports Centre",
+        "Current Rating": "C2",
+        "Total m�": "1008.0",
+        "kgCO2 indicator": "59.02",
+        "Heating kWh/m�/yr": "120.12",
+        "Electricity kWh/m�/yr": "28.39",
+        "Typical Building kWh/m�/yr": "249.32",
+        "Next Rating Indicator": "58.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078098",
+        "Previous Rating": "C3"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1181",
+        "Building": "St Laurence O'Toole Recreation Centre",
+        "Current Rating": "C1",
+        "Total m�": "1001.5",
+        "kgCO2 indicator": "53.45",
+        "Heating kWh/m�/yr": "115.24",
+        "Electricity kWh/m�/yr": "53.53",
+        "Typical Building kWh/m�/yr": "314.6",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078742",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "448",
+        "Building": "Swan Leisure",
+        "Current Rating": "C3",
+        "Total m�": "3488.5",
+        "kgCO2 indicator": "70.47",
+        "Heating kWh/m�/yr": "840.14",
+        "Electricity kWh/m�/yr": "167.64",
+        "Typical Building kWh/m�/yr": "1411.78",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801082819",
+        "Previous Rating": "nan"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "20",
+        "Building": "Dolphin's Barn Fire Station",
+        "Current Rating": "E2",
+        "Total m�": "989.0",
+        "kgCO2 indicator": "116.89",
+        "Heating kWh/m�/yr": "395.52",
+        "Electricity kWh/m�/yr": "272.83",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "112.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078106",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "22",
+        "Building": "Blanchardstown Fire Station",
+        "Current Rating": "D1",
+        "Total m�": "989.0",
+        "kgCO2 indicator": "78.68",
+        "Heating kWh/m�/yr": "291.04",
+        "Electricity kWh/m�/yr": "160.33",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078114",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "18",
+        "Building": "Donnybrook Fire Station",
+        "Current Rating": "C3",
+        "Total m�": "946.0",
+        "kgCO2 indicator": "72.12",
+        "Heating kWh/m�/yr": "356.66",
+        "Electricity kWh/m�/yr": "62.63",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078122",
+        "Previous Rating": "C3"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "28",
+        "Building": "Finglas Fire Station",
+        "Current Rating": "C2",
+        "Total m�": "908.0",
+        "kgCO2 indicator": "65.42",
+        "Heating kWh/m�/yr": "134.94",
+        "Electricity kWh/m�/yr": "233.82",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "58.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078148",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "861",
+        "Building": "Tallaght Fire Station",
+        "Current Rating": "E2",
+        "Total m�": "880.0",
+        "kgCO2 indicator": "124.71",
+        "Heating kWh/m�/yr": "409.32",
+        "Electricity kWh/m�/yr": "302.94",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "112.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078155",
+        "Previous Rating": "E2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "29",
+        "Building": "Kilbarrack Fire Station",
+        "Current Rating": "D1",
+        "Total m�": "852.0",
+        "kgCO2 indicator": "77.15",
+        "Heating kWh/m�/yr": "283.76",
+        "Electricity kWh/m�/yr": "157.9",
+        "Typical Building kWh/m�/yr": "576.02",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078163",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "738",
+        "Building": "Ballymun Library",
+        "Current Rating": "C1",
+        "Total m�": "830.94",
+        "kgCO2 indicator": "52.42",
+        "Heating kWh/m�/yr": "102.65",
+        "Electricity kWh/m�/yr": "85.55",
+        "Typical Building kWh/m�/yr": "359.5",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078171",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "21",
+        "Building": "Rathfarnham Fire Station",
+        "Current Rating": "D1",
+        "Total m�": "804.0",
+        "kgCO2 indicator": "83.51",
+        "Heating kWh/m�/yr": "240.71",
+        "Electricity kWh/m�/yr": "234.19",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078197",
+        "Previous Rating": "C3"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1174",
+        "Building": "Coolock Swimming Pool",
+        "Current Rating": "D1",
+        "Total m�": "782.0",
+        "kgCO2 indicator": "84.87",
+        "Heating kWh/m�/yr": "1092.73",
+        "Electricity kWh/m�/yr": "403.72",
+        "Typical Building kWh/m�/yr": "1761.06",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078270",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1173",
+        "Building": "Crumlin Swimming Pool",
+        "Current Rating": "C3",
+        "Total m�": "723.0",
+        "kgCO2 indicator": "70.98",
+        "Heating kWh/m�/yr": "850.76",
+        "Electricity kWh/m�/yr": "396.9",
+        "Typical Building kWh/m�/yr": "1761.06",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078262",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "897",
+        "Building": "Central Area Office",
+        "Current Rating": "C3",
+        "Total m�": "678.0",
+        "kgCO2 indicator": "68.72",
+        "Heating kWh/m�/yr": "101.61",
+        "Electricity kWh/m�/yr": "116.6",
+        "Typical Building kWh/m�/yr": "316.44",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078221",
+        "Previous Rating": "C3"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "27",
+        "Building": "Swords Fire Station",
+        "Current Rating": "D2",
+        "Total m�": "670.0",
+        "kgCO2 indicator": "100.01",
+        "Heating kWh/m�/yr": "268.16",
+        "Electricity kWh/m�/yr": "299.34",
+        "Typical Building kWh/m�/yr": "577.52",
+        "Next Rating Indicator": "87.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078239",
+        "Previous Rating": "E2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "746",
+        "Building": "Dolphin's Barn Library",
+        "Current Rating": "D1",
+        "Total m�": "546.0",
+        "kgCO2 indicator": "78.19",
+        "Heating kWh/m�/yr": "148.21",
+        "Electricity kWh/m�/yr": "137.28",
+        "Typical Building kWh/m�/yr": "367.1",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078676",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "753",
+        "Building": "Donaghmede Library",
+        "Current Rating": "C1",
+        "Total m�": "470.0",
+        "kgCO2 indicator": "56.37",
+        "Heating kWh/m�/yr": "121.81",
+        "Electricity kWh/m�/yr": "81.34",
+        "Typical Building kWh/m�/yr": "374.14",
+        "Next Rating Indicator": "50.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078700",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "756",
+        "Building": "Raheny Library",
+        "Current Rating": "C3",
+        "Total m�": "442.0",
+        "kgCO2 indicator": "74.16",
+        "Heating kWh/m�/yr": "137.96",
+        "Electricity kWh/m�/yr": "149.82",
+        "Typical Building kWh/m�/yr": "389.91",
+        "Next Rating Indicator": "67.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078718",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "743",
+        "Building": "Charleville Library",
+        "Current Rating": "D2",
+        "Total m�": "423.5",
+        "kgCO2 indicator": "97.26",
+        "Heating kWh/m�/yr": "286.24",
+        "Electricity kWh/m�/yr": "75.14",
+        "Typical Building kWh/m�/yr": "367.1",
+        "Next Rating Indicator": "87.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078320",
+        "Previous Rating": "C1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "752",
+        "Building": "Pembroke Library",
+        "Current Rating": "D2",
+        "Total m�": "342.0",
+        "kgCO2 indicator": "90.6",
+        "Heating kWh/m�/yr": "123.47",
+        "Electricity kWh/m�/yr": "207.23",
+        "Typical Building kWh/m�/yr": "370.33",
+        "Next Rating Indicator": "87.5",
+        "Valid Until": "46173",
+        "SEAI Number": "801078684",
+        "Previous Rating": "D1"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1201",
+        "Building": "Dublin Municipal Rowing Centre",
+        "Current Rating": "D1",
+        "Total m�": "326.0",
+        "kgCO2 indicator": "78.5",
+        "Heating kWh/m�/yr": "280.82",
+        "Electricity kWh/m�/yr": "180.53",
+        "Typical Building kWh/m�/yr": "588.88",
+        "Next Rating Indicator": "75.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078734",
+        "Previous Rating": "C2"
+      },
+      "geometry": null
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ID": "1112",
+        "Building": "Pearse Area Recreational Centre",
+        "Current Rating": "F",
+        "Total m�": "259.0",
+        "kgCO2 indicator": "137.06",
+        "Heating kWh/m�/yr": "278.75",
+        "Electricity kWh/m�/yr": "141.27",
+        "Typical Building kWh/m�/yr": "305.78",
+        "Next Rating Indicator": "125.0",
+        "Valid Until": "46173",
+        "SEAI Number": "801078726",
+        "Previous Rating": "E1"
+      },
+      "geometry": null
+    }
+  ]
+}
