@@ -158,7 +158,7 @@ app.layout = html.Div([
 
 
 #     butttom figure--------------------------------------------------------------------
-    html.Div([
+     html.Div([
         # 
         html.Div(dcc.Graph(id="bar3", style={
             "height": "100%",     
@@ -428,5 +428,7 @@ def update_radar_chart(clickData):
     return fig
 
 
+
+server = app.server
 if __name__ == "__main__":
-    app.run_server(debug=True)
+    app.run_server(host="0.0.0.0", port=8000, debug=False)
