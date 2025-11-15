@@ -166,7 +166,7 @@ app.layout = html.Div([
             "padding": "0",       
             "margin": "0"        
         },config={"displayModeBar": False}),style={
-        "width": "65%","height": "100%","background": "#d4edda","display": "inline-block","verticalAlign": "top","textAlign": "center","padding": "0","margin": "0","overflow": "hidden"}
+        "width": "65%","height": "100%","background": "#d4edda","display": "inline-block","verticalAlign": "top","textAlign": "center","padding": "0","margin": "0"}
         
         ),
 
