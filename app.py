@@ -137,8 +137,8 @@ app.layout = html.Div([
 
         html.Div(
             [
-            dcc.Graph(id="fig_energy",config={"displayModeBar": True}, style={"height": "50%", "width": "100%"}),
-            dcc.Graph(id="fig_co2",config={"displayModeBar": True}, style={"height": "50%", "width": "100%"})],style={
+            dcc.Graph(id="fig_energy",config={"displayModeBar": False}, style={"height": "50%", "width": "100%"}),
+            dcc.Graph(id="fig_co2",config={"displayModeBar": False}, style={"height": "50%", "width": "100%"})],style={
                 "width": "35%",
                 "height": "100%",
                 "background": "#ffeeba",
@@ -165,14 +165,14 @@ app.layout = html.Div([
             "width": "100%",      
             "padding": "0",       
             "margin": "0"        
-        },config={"displayModeBar": True}),style={
+        },config={"displayModeBar": False}),style={
         "width": "65%","height": "100%","background": "#d4edda","display": "inline-block","verticalAlign": "top","textAlign": "center","padding": "0","margin": "0"}
         
         ),
 
 
         html.Div([
-        dcc.Graph(id="figure4", style={"height": "100%", "width": "100%"}, config={"displayModeBar": True})
+        dcc.Graph(id="figure4", style={"height": "100%", "width": "100%"}, config={"displayModeBar": False})
     ],
           style={
         "width": "35%",
