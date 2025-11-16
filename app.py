@@ -212,25 +212,29 @@ def update_building(clickData):
         paper_bgcolor="#f5f6fa",  
         plot_bgcolor="#f5f6fa",   
         xaxis=dict(
-            title="Year",
-            showgrid=True,
-            gridcolor="rgba(0,0,0,0.05)",  
-            zeroline=False,
-            showline=True,
-            linecolor="rgba(0,0,0,0.2)",  
-            tickfont=dict(color="#555", size=11),
-            titlefont=dict(color="#1f3b64", size=12)
-        ),
-        yaxis=dict(
-            title="Value",
+            title=dict(
+                    text="Year",
+                    font=dict(color="#1f3b64", size=12)
+                ),
             showgrid=True,
             gridcolor="rgba(0,0,0,0.05)",
             zeroline=False,
             showline=True,
             linecolor="rgba(0,0,0,0.2)",
-            tickfont=dict(color="#555", size=11),
-            titlefont=dict(color="#1f3b64", size=12)
-        ),
+            tickfont=dict(color="#555", size=11)
+            ),
+        yaxis=dict(
+            title=dict(
+                text="Value",
+                font=dict(color="#1f3b64", size=12)
+            ),
+            showgrid=True,
+            gridcolor="rgba(0,0,0,0.05)",
+            zeroline=False,
+            showline=True,
+            linecolor="rgba(0,0,0,0.2)",
+            tickfont=dict(color="#555", size=11)
+            ),
         margin=dict(l=40, r=10, t=10, b=30)
     )
         return empty, empty
@@ -350,7 +354,7 @@ def update_radar_chart(clickData):
     if not clickData:
         fig = go.Figure()
         fig.update_layout(
-            title="Energy Performance Radar (Select a Building)",
+            title="Energy (Select a Building)",
             title_x=0.5,
             paper_bgcolor="rgba(233,236,239,0.6)",
             font=dict(family="Arial", color="#1f3b64", size=13),
@@ -399,7 +403,7 @@ def update_radar_chart(clickData):
     ))
 
     fig.update_layout(
-        title=f"Energy Performance Radar — {building_name} ({frame_year})",
+        title=f"Energy — {building_name} ({frame_year})",
         title_x=0.5,
          paper_bgcolor="rgba(233,236,239,0.6)",
         font=dict(family="Arial", color="#1f3b64", size=13),
